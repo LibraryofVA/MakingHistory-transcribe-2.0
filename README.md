@@ -11,6 +11,7 @@ Transcribe was built on the following:
 
 + [Omeka](http://omeka.org/codex/Version_History) version 2.4.1
 + [Omeka Dublin Core Extended plugin](http://omeka.org/add-ons/plugins/dublin-core-extended/) version 2.0.1
++ [Daniel-KM/CsvImport](https://github.com/Daniel-KM/CsvImport), a fork of Omeka's CsvImport that allows bulk upload of item and file-level metadata
 + [LibraryofVA/plugin-Scripto-2.0](https://github.com/LibraryofVA/plugin-Scripto-2.0), a fork of [ui-libraries/plugin-Scripto](https://github.com/ui-libraries/plugin-Scripto), which was orginally forked from CHNM's Scripto tool for crowd sourced transcription of documents
 + [MediaWiki](http://www.mediawiki.org/wiki/MediaWiki) version 1.26.4
 + [LibraryofVA/Scribe-2.0](https://github.com/LibraryofVA/Scribe-2.0), a fork of [ui-libraries/Scribe](https://github.com/ui-libraries/Scribe) custom Omeka theme
