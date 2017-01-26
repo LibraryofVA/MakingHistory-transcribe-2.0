@@ -36,8 +36,9 @@ By default, any member of the public is allowed to edit and save transcription d
 - Horizontal/Vertical display toggle ability along with resize buttons for OpenLayers object.
 - Removed Wiki anonymous editing ability and control anonymous edits through Scripto with a user account ultimately reducing spam.
 - Autosave, results in more timely update of document status which reduces duplicate efforts of transcribers.
+- Altered MediaWiki group structure reducing deputized public approvers from administrator to a more suitable role.
 
 ## Installation
 Follow the documentation at each source code repository to install 
 
-For best results, install the ui-libraries/plugin-Scripto plugin and create a collection before installing the Scribe theme.
+For best results, install the LibraryofVA/plugin-Scripto-2.0 and create a collection before installing the LibraryofVA/Scribe-2.0 theme.
