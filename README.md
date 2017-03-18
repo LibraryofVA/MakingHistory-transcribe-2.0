@@ -1,11 +1,11 @@
 Making History: Transcribe 2.0,
 =====================
 
-Transcribe is built upon the open-source generosity of George Mason University's [Center for History and New Media](http://chnm.gmu.edu/) and was an original creation by the amazing staff at [The University of Iowa Libraries] (http://www.lib.uiowa.edu/). Their project, DIYHistory|transcribe, can be found at [http://diyhistory.lib.uiowa.edu/] (http://diyhistory.lib.uiowa.edu/) with their github repository located at [github.com/ui-libraries] (https://github.com/ui-libraries). A pervious version of this project can be found at [Making History: Transcribe](https://github.com/LibraryofVA/MakingHistory-transcribe).
+Transcribe is built upon the open-source generosity of George Mason University's [Center for History and New Media](http://chnm.gmu.edu/) and was an original creation by the amazing staff at [The University of Iowa Libraries](http://www.lib.uiowa.edu/). Their project, DIYHistory|transcribe, can be found at [http://diyhistory.lib.uiowa.edu/](http://diyhistory.lib.uiowa.edu/) with their github repository located at [github.com/ui-libraries](https://github.com/ui-libraries). A pervious version of this project can be found at [Making History: Transcribe](https://github.com/LibraryofVA/MakingHistory-transcribe).
 
 Overview
 --------
-[Making History - Transcribe](http://www.virginiamemory.com/transcribe/) is a tool for engaging users in transcribing handwritten documents, making them more searchable and enhancing them for research. Transcribe is built on the [Omeka] (http://omeka.org/) content management system and uses the [Scripto] (http://scripto.org/) plugin to facilitate transcription. [Scripto] (http://scripto.org/) uses [MediaWiki] (http://www.mediawiki.org/wiki/MediaWiki), which allows users to continually improve upon work that has already been done. UI-Libraries made significant additions to the Scripto plugin, created a new Omeka theme, and customized other Omeka plugins to style and scale for a library production environment. In this project the Library of Virginia is completing further customizations and updating software to the versions listed below.
+[Making History - Transcribe](http://www.virginiamemory.com/transcribe/) is a tool for engaging users in transcribing handwritten documents, making them more searchable and enhancing them for research. Transcribe is built on the [Omeka](http://omeka.org/) content management system and uses the [Scripto](http://scripto.org/) plugin to facilitate transcription. [Scripto](http://scripto.org/) uses [MediaWiki](http://www.mediawiki.org/wiki/MediaWiki), which allows users to continually improve upon work that has already been done. UI-Libraries made significant additions to the Scripto plugin, created a new Omeka theme, and customized other Omeka plugins to style and scale for a library production environment. In this project the Library of Virginia is completing further customizations and updating software to the versions listed below.
 
 ##Requirements
 Transcribe was built on the following:
@@ -18,8 +18,9 @@ Transcribe was built on the following:
 + [MediaWiki](http://www.mediawiki.org/wiki/MediaWiki) version 1.26.4
 + [LibraryofVA/Scribe-2.0](https://github.com/LibraryofVA/Scribe-2.0), a fork of [ui-libraries/Scribe](https://github.com/ui-libraries/Scribe) custom Omeka theme
 
-##Features
-[UI-Libraries] (http://www.lib.uiowa.edu/) introduced the following features to plugin-Scripto:
+Features
+--------
+[UI-Libraries](http://www.lib.uiowa.edu/) introduced the following features to plugin-Scripto:
 
 - Track completion status of document pages (i.e., 'Not Started', 'Needs Review', 'Completed')
 - Track completion progress of documents based on page statuses.
@@ -41,7 +42,8 @@ By default, any member of the public is allowed to edit and save transcription d
 - Altered MediaWiki group structure reducing deputized public approvers from administrator to a more suitable role.
 - Export capability to extract transcription information from Omeka.
 
-## Installation
+Installation
+------------
 Follow the documentation at each source code repository to install 
 
 For best results, install the LibraryofVA/plugin-Scripto-2.0 and create a collection before installing the LibraryofVA/Scribe-2.0 theme.
