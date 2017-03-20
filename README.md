@@ -7,7 +7,8 @@ Overview
 --------
 [Making History - Transcribe](http://www.virginiamemory.com/transcribe/) is a tool for engaging users in transcribing handwritten documents, making them more searchable and enhancing them for research. Transcribe is built on the [Omeka](http://omeka.org/) content management system and uses the [Scripto](http://scripto.org/) plugin to facilitate transcription. [Scripto](http://scripto.org/) uses [MediaWiki](http://www.mediawiki.org/wiki/MediaWiki), which allows users to continually improve upon work that has already been done. UI-Libraries made significant additions to the Scripto plugin, created a new Omeka theme, and customized other Omeka plugins to style and scale for a library production environment. In this project the Library of Virginia is completing further customizations and updating software to the versions listed below.
 
-##Requirements
+Requirements
+------------
 Transcribe was built on the following:
 
 + [Omeka](http://omeka.org/codex/Version_History) version 2.4.1
