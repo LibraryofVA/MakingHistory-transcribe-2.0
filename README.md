@@ -11,12 +11,12 @@ Requirements
 ------------
 Transcribe was built on the following:
 
-+ [Omeka](http://omeka.org/codex/Version_History) version 2.4.1
-+ [Omeka Dublin Core Extended plugin](http://omeka.org/add-ons/plugins/dublin-core-extended/) version 2.0.1
++ [Omeka](http://omeka.org/codex/Version_History) version 2.7.1
++ [Omeka Dublin Core Extended plugin](http://omeka.org/add-ons/plugins/dublin-core-extended/) version 2.2
 + [Daniel-KM/CsvImport](https://github.com/Daniel-KM/CsvImport), a fork of Omeka's CsvImport that allows bulk upload of item and file-level metadata
 + [LibraryofVA/plugin-Scripto-2.0](https://github.com/LibraryofVA/plugin-Scripto-2.0), a fork of [ui-libraries/plugin-Scripto](https://github.com/ui-libraries/plugin-Scripto), which was orginally forked from CHNM's Scripto tool for crowd sourced transcription of documents
 + [LibraryofVA/plugin-Export-2.0](https://github.com/LibraryofVA/plugin-Export-2.0), Export was designed specifically for use by the Library of Virginia to extract transcription data to then be imported into a digital asset management system adding full text search capability
-+ [MediaWiki](http://www.mediawiki.org/wiki/MediaWiki) version 1.26.4
++ [MediaWiki](http://www.mediawiki.org/wiki/MediaWiki) version 1.35.0
 + [LibraryofVA/Scribe-2.0](https://github.com/LibraryofVA/Scribe-2.0), a fork of [ui-libraries/Scribe](https://github.com/ui-libraries/Scribe) custom Omeka theme
 
 Features
@@ -36,7 +36,7 @@ By default, any member of the public is allowed to edit and save transcription d
 
 [The Library of Virginia](http://www.lva.virginia.gov/) added the following features:
 
-- Update to OpenLayers 3.0
+- Update to OpenLayers 3.20.1
 - Horizontal/Vertical display toggle ability along with resize buttons for OpenLayers object.
 - Removed Wiki anonymous editing ability and control anonymous edits through Scripto with a user account ultimately reducing spam.
 - Autosave, results in more timely update of document status which reduces duplicate efforts of transcribers.
